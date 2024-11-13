@@ -15,7 +15,7 @@ body {
   /* ============================================================= */
   /* Primary Color
   ================================================================ */
-  --cd-primary-color:                    #66dbff;
+  --cd-primary-color:                    #009973;
   --cd-primary-text-color:               #e6f9ff;
 
   /* ============================================================= */
@@ -28,11 +28,11 @@ body {
   /* Backgrounds
   ================================================================ */
   --cd-body-background-color:            #1c0101;
-  --cd-content-background-color:         #ffffff;
-  --cd-faded-background-color:           #f8f8f8;
+  --cd-content-background-color:         #003333;
+  --cd-faded-background-color:           #001a1a;
 
   /* Background Extras */
-  --cd-body-background-image:             url()
+  --cd-body-background-image:             url(https://www.creativefabrica.com/wp-content/uploads/2023/05/07/Mystical-Fantasy-Meadow-Field-In-Studio-Ghibli-Style-69072272-1.png)
   /* ============================================================= */
   /* Text
   ================================================================ */
