@@ -15,14 +15,14 @@ body {
   /* ============================================================= */
   /* Primary Color
   ================================================================ */
-  --cd-primary-color:                    #330000;
-  --cd-primary-text-color:               #fff;
+  --cd-primary-color:                    #4d4dff;
+  --cd-primary-text-color:               #e6e6ff;
 
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color:                  #a920b0;
-  --cd-secondary-text-color:             #fff;
+  --cd-secondary-color:                  #00004d;
+  --cd-secondary-text-color:             #e6e6ff;
 
   /* ============================================================= */
   /* Backgrounds
