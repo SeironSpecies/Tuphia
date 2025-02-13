@@ -10,6 +10,7 @@ let sheetID = "11-maB401r7aMsAqsfYPfefS_HoYiu8qpO3fpdCJFV_4";
 let sheetPages = {
 
     masterlist: "masterlist",
+    pups: "pups",
     masterlistLog: "masterlist log",
     inventory: "inventory",
     inventoryLog: "inventory log",
@@ -59,6 +60,23 @@ let options = {
         fauxFolderColumn: 'Species',
 
     },
+
+        /* Pup Masterlist
+    /* --------------------------------------------------------------- */
+    pups: {
+
+        sheetPage: sheetPages.pups,
+        logSheetPage: sheetPages.masterlistLog,
+
+        itemAmount: 12,
+        itemOrder: "asc",
+
+        filterColumn: 'Design Type',
+        searchFilterParams: ['ID', 'Owner', 'Designer', 'Artist', 'Type', 'Traits', 'Design Type', 'Status', 'Rarity', 'Codename'],
+        fauxFolderColumn: 'Species',
+
+    },
+    
 
 
     /* Item Catalogue
