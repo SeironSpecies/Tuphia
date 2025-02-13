@@ -28,16 +28,16 @@ body {
   /* Backgrounds
   =============================================================== */
   --cd-body-background-color:            #FFDAB3;
-  --cd-content-background-color:         #630404;
-  --cd-faded-background-color:           #0a0000;
+  --cd-content-background-color:         #FFDAB3;
+  --cd-faded-background-color:           #FFDAB3;
 
   /* Background Extras */
   --cd-body-background-image:             url();
   /* ============================================================= */
   /* Text
   ================================================================ */
-  --cd-body-text-color:                  #f0f0f5;
-  --cd-faded-text-color:                 #d1d5e6;
+  --cd-body-text-color:                  #d5cae0;
+  --cd-faded-text-color:                 #d5cae0;
 
   /* ============================================================= */
   /* Borders
