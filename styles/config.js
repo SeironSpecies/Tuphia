@@ -56,7 +56,7 @@ let options = {
         itemOrder: "asc",
 
         filterColumn: 'Design Type',
-        searchFilterParams: ['ID', 'Owner', 'Designer', 'Artist', 'Type', 'Traits', 'Design Type', 'Status', 'Rarity', 'Codename'],
+        searchFilterParams: ['ID', 'Owner', 'Designer', 'Artist', 'Type', 'Traits', 'Design Type', 'Status', 'Rarity', 'Codename', 'Variant'],
         fauxFolderColumn: 'Species',
 
     },
@@ -72,7 +72,7 @@ let options = {
         itemOrder: "asc",
 
         filterColumn: 'Design Type',
-        searchFilterParams: ['ID', 'Owner', 'Designer', 'Artist', 'Type', 'Traits', 'Design Type', 'Status', 'Rarity', 'Codename'],
+        searchFilterParams: ['ID', 'Owner', 'Designer', 'Artist', 'Type', 'Traits', 'Design Type', 'Status', 'Rarity', 'Codename', 'Variant'],
         fauxFolderColumn: 'Species',
 
     },
